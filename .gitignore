@@ -1,16 +1,5 @@
-# Python
 __pycache__/
-*.py[cod]
-*.ipynb_checkpoints
-
-# Virtualenv
 .venv/
-env/
-venv/
-
-# MacOS
 .DS_Store
-
-# Model/data backups
 *.bak
 *.old
